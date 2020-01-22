@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 7865fcc28d8c2f94f80ba1a62fc452f0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: fence_16
+    100002: gabion cage0010
+    100004: gabion cage0011
+    100006: gabion cage0012
+    100008: gabion cage0013
+    100010: gabion cage0014
+    100012: gabion cage4
+    100014: gabion cage5
+    100016: gabion cage6
+    100018: gabion cage7
+    100020: gabion004
+    100022: gabion005
+    100024: gabion006
+    100026: gabion007
+    100028: gabion008
+    100030: gabion4
+    100032: gabion5
+    100034: gabion6
+    100036: gabion7
+    100038: pCube1
+    100040: pCube10
+    100042: pCube11
+    100044: pCube12
+    100046: pCube13
+    100048: pCube14
+    100050: pCube15
+    100052: pCube16
+    100054: pCube17
+    100056: pCube18
+    100058: pCube19
+    100060: pCube2
+    100062: pCube20
+    100064: pCube21
+    100066: pCube22
+    100068: pCube3
+    100070: pCube4
+    100072: pCube5
+    100074: pCube6
+    100076: pCube7
+    100078: pCube8
+    100080: pCube9
+    100082: //RootNode
+    100084: VRaySun001
+    100086: VRaySun001.Target
+    400000: fence_16
+    400002: gabion cage0010
+    400004: gabion cage0011
+    400006: gabion cage0012
+    400008: gabion cage0013
+    400010: gabion cage0014
+    400012: gabion cage4
+    400014: gabion cage5
+    400016: gabion cage6
+    400018: gabion cage7
+    400020: gabion004
+    400022: gabion005
+    400024: gabion006
+    400026: gabion007
+    400028: gabion008
+    400030: gabion4
+    400032: gabion5
+    400034: gabion6
+    400036: gabion7
+    400038: pCube1
+    400040: pCube10
+    400042: pCube11
+    400044: pCube12
+    400046: pCube13
+    400048: pCube14
+    400050: pCube15
+    400052: pCube16
+    400054: pCube17
+    400056: pCube18
+    400058: pCube19
+    400060: pCube2
+    400062: pCube20
+    400064: pCube21
+    400066: pCube22
+    400068: pCube3
+    400070: pCube4
+    400072: pCube5
+    400074: pCube6
+    400076: pCube7
+    400078: pCube8
+    400080: pCube9
+    400082: //RootNode
+    400084: VRaySun001
+    400086: VRaySun001.Target
+    2100000: lambert1
+    2100002: stone_rectangle
+    2100004: metal_black
+    2300000: gabion cage0010
+    2300002: gabion cage0011
+    2300004: gabion cage0012
+    2300006: gabion cage0013
+    2300008: gabion cage0014
+    2300010: gabion cage4
+    2300012: gabion cage5
+    2300014: gabion cage6
+    2300016: gabion cage7
+    2300018: gabion004
+    2300020: gabion005
+    2300022: gabion006
+    2300024: gabion007
+    2300026: gabion008
+    2300028: gabion4
+    2300030: gabion5
+    2300032: gabion6
+    2300034: gabion7
+    2300036: pCube1
+    2300038: pCube10
+    2300040: pCube11
+    2300042: pCube12
+    2300044: pCube13
+    2300046: pCube14
+    2300048: pCube15
+    2300050: pCube16
+    2300052: pCube17
+    2300054: pCube18
+    2300056: pCube19
+    2300058: pCube2
+    2300060: pCube20
+    2300062: pCube21
+    2300064: pCube22
+    2300066: pCube3
+    2300068: pCube4
+    2300070: pCube5
+    2300072: pCube6
+    2300074: pCube7
+    2300076: pCube8
+    2300078: pCube9
+    3300000: gabion cage0010
+    3300002: gabion cage0011
+    3300004: gabion cage0012
+    3300006: gabion cage0013
+    3300008: gabion cage0014
+    3300010: gabion cage4
+    3300012: gabion cage5
+    3300014: gabion cage6
+    3300016: gabion cage7
+    3300018: gabion004
+    3300020: gabion005
+    3300022: gabion006
+    3300024: gabion007
+    3300026: gabion008
+    3300028: gabion4
+    3300030: gabion5
+    3300032: gabion6
+    3300034: gabion7
+    3300036: pCube1
+    3300038: pCube10
+    3300040: pCube11
+    3300042: pCube12
+    3300044: pCube13
+    3300046: pCube14
+    3300048: pCube15
+    3300050: pCube16
+    3300052: pCube17
+    3300054: pCube18
+    3300056: pCube19
+    3300058: pCube2
+    3300060: pCube20
+    3300062: pCube21
+    3300064: pCube22
+    3300066: pCube3
+    3300068: pCube4
+    3300070: pCube5
+    3300072: pCube6
+    3300074: pCube7
+    3300076: pCube8
+    3300078: pCube9
+    4300000: pCube1
+    4300002: pCube6
+    4300004: pCube7
+    4300006: pCube8
+    4300008: pCube9
+    4300010: pCube3
+    4300012: pCube2
+    4300014: pCube4
+    4300016: pCube10
+    4300018: pCube11
+    4300020: pCube12
+    4300022: pCube13
+    4300024: pCube14
+    4300026: pCube15
+    4300028: pCube16
+    4300030: pCube17
+    4300032: pCube18
+    4300034: pCube19
+    4300036: pCube20
+    4300038: pCube21
+    4300040: pCube22
+    4300042: gabion007
+    4300044: gabion cage0013
+    4300046: gabion008
+    4300048: gabion cage0014
+    4300050: gabion6
+    4300052: gabion cage0010
+    4300054: gabion cage0012
+    4300056: gabion005
+    4300058: gabion7
+    4300060: gabion cage7
+    4300062: gabion cage0011
+    4300064: gabion4
+    4300066: pCube5
+    4300068: gabion004
+    4300070: gabion cage5
+    4300072: gabion cage4
+    4300074: gabion006
+    4300076: gabion5
+    4300078: gabion cage6
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
